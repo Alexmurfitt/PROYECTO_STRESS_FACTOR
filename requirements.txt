@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+seaborn
+matplotlib
+plotly
+jupyterlab
+notebook
+pgmpy
+shap
+lime
+pycaret
+ydata-profiling
+streamlit
+mysql-connector-python
+python-dotenv
